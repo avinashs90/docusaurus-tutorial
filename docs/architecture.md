@@ -1,5 +1,5 @@
 ---
-id: doc9
+id: architecture
 title: Architecture
 sidebar_label: Architecture
 ---

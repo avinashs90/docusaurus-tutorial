@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Overview
-sidebar_label: Overview
+id: swagger-open
+title: Swagger Open Spec
+sidebar_label: Swagger Open Spec
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

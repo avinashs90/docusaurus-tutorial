@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1","doc9"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Introduction": ["doc1","doc9"],
+    "Interfaces": ["claims-highway", "brm-services", "pcms", "simple-tables"],
+    "APIs": ["api-overview","swagger-open"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

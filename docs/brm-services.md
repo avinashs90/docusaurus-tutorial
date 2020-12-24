@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Overview
-sidebar_label: Overview
+id: brm-services
+title: BRM Services
+sidebar_label: BRM Services
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

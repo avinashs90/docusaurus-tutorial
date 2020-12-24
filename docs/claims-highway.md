@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Overview
-sidebar_label: Overview
+id: claims-highway
+title: Claims Highway
+sidebar_label: Claims Highway
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

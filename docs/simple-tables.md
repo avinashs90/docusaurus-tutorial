@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Overview
-sidebar_label: Overview
+id: simple-tables
+title: Simple Tables
+sidebar_label: Simple Tables
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
