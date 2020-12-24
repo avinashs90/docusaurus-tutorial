@@ -2,7 +2,11 @@
   "docs": {
     "Introduction": ["doc1","doc9"],
     "Interfaces": ["claims-highway", "brm-services", "pcms", "simple-tables"],
-    "APIs": ["api-overview","swagger-open"]
+    "APIs": ["api-overview","swagger-open"],
+    "Roadmap": ["roadmap"],
+    "Releases": ["releases"],
+    "Troubleshooting": ["troubleshooting"],
+    "Contact Us": ["contact"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
